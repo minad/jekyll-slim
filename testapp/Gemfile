@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+
+gem 'byebug'
+gem 'jekyll', '~> 3.0'
+gem 'slim', '~> 3.0'
+gem 'sliq', '~> 0.0.3', path: '../../sliq'
+gem 'jekyll-slim', path: '..'
